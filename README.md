@@ -1,4 +1,4 @@
-# Remote-friendly companies that may not whiteboard during hiring
+# Remote-friendly companies that potentially don't whiteboard during hiring
 
 There are a couple of great lists out there for people looking for a great fit. Two common requirements for developers are remote-friendly jobs, and likewise developers looking to *not* have the whiteboarding interview experience.
 
